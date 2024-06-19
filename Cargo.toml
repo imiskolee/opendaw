@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+"noisy_engine"
+
+, "web_app"]
